@@ -8,9 +8,7 @@ from torch import nn
 import numpy as np
 import os
 from pathlib import Path
-
-# 引入RL_Utils.py的路径
-from Python.ReinforcementLearning.EasyRL.RL_Utils import *
+from utils import *
 
 # PPOMemory 类，存储和采样训练数据
 class PPOMemory:
