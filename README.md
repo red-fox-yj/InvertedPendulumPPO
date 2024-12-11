@@ -1,2 +1,2 @@
-# RL_ppo
+# InvertedPendulumPPO
 倒立摆问题
